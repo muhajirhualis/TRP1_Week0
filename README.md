@@ -40,18 +40,6 @@ This repository contains my submission for the **TRP 1: MCP Setup Challenge**, d
 
 > “Precise, imperative rules transform AI from a passive tool into an intentional collaborator. By embedding planning, verification, and role specialization—directly from Boris Cherny’s practice—I significantly improved output reliability and alignment with academic and engineering standards.”
 
-## 📝 Submission Ready
-
-This repo fulfills all requirements for the TRP 1 challenge:
-- ✅ MCP server active during development  
-- ✅ Rules file in correct location with research-backed enhancements  
-- ✅ Comprehensive documentation  
-- ✅ Evidence of curiosity, iteration, and effort  
-
----
-*Submitted as part of the Advanced Analytics / AI Engineering curriculum.*
-```
-
 ---
 
 ### 🔧 How to Use This
